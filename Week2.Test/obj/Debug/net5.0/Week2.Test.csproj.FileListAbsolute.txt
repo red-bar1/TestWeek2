@@ -1,0 +1,16 @@
+C:\Users\giulia.tuttobene\Desktop\Academy\Settimana 2\Week2.Test\Week2.Test\bin\Debug\net5.0\Week2.Test.exe
+C:\Users\giulia.tuttobene\Desktop\Academy\Settimana 2\Week2.Test\Week2.Test\bin\Debug\net5.0\Week2.Test.deps.json
+C:\Users\giulia.tuttobene\Desktop\Academy\Settimana 2\Week2.Test\Week2.Test\bin\Debug\net5.0\Week2.Test.runtimeconfig.json
+C:\Users\giulia.tuttobene\Desktop\Academy\Settimana 2\Week2.Test\Week2.Test\bin\Debug\net5.0\Week2.Test.runtimeconfig.dev.json
+C:\Users\giulia.tuttobene\Desktop\Academy\Settimana 2\Week2.Test\Week2.Test\bin\Debug\net5.0\Week2.Test.dll
+C:\Users\giulia.tuttobene\Desktop\Academy\Settimana 2\Week2.Test\Week2.Test\bin\Debug\net5.0\ref\Week2.Test.dll
+C:\Users\giulia.tuttobene\Desktop\Academy\Settimana 2\Week2.Test\Week2.Test\bin\Debug\net5.0\Week2.Test.pdb
+C:\Users\giulia.tuttobene\Desktop\Academy\Settimana 2\Week2.Test\Week2.Test\obj\Debug\net5.0\Week2.Test.csprojAssemblyReference.cache
+C:\Users\giulia.tuttobene\Desktop\Academy\Settimana 2\Week2.Test\Week2.Test\obj\Debug\net5.0\Week2.Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giulia.tuttobene\Desktop\Academy\Settimana 2\Week2.Test\Week2.Test\obj\Debug\net5.0\Week2.Test.AssemblyInfoInputs.cache
+C:\Users\giulia.tuttobene\Desktop\Academy\Settimana 2\Week2.Test\Week2.Test\obj\Debug\net5.0\Week2.Test.AssemblyInfo.cs
+C:\Users\giulia.tuttobene\Desktop\Academy\Settimana 2\Week2.Test\Week2.Test\obj\Debug\net5.0\Week2.Test.csproj.CoreCompileInputs.cache
+C:\Users\giulia.tuttobene\Desktop\Academy\Settimana 2\Week2.Test\Week2.Test\obj\Debug\net5.0\Week2.Test.dll
+C:\Users\giulia.tuttobene\Desktop\Academy\Settimana 2\Week2.Test\Week2.Test\obj\Debug\net5.0\ref\Week2.Test.dll
+C:\Users\giulia.tuttobene\Desktop\Academy\Settimana 2\Week2.Test\Week2.Test\obj\Debug\net5.0\Week2.Test.pdb
+C:\Users\giulia.tuttobene\Desktop\Academy\Settimana 2\Week2.Test\Week2.Test\obj\Debug\net5.0\Week2.Test.genruntimeconfig.cache
